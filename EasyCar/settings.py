@@ -23,7 +23,7 @@ sys.path.insert(0, os.path.join(PROJECT_ROOT))
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-uz(rww=&qrk)manh_96ayxh5cn8r8+r8pj&+#jy!2&nfx-2^-n'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
